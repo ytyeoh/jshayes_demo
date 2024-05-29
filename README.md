@@ -19,7 +19,7 @@ Remove top banner info and replace below info
 
 
 ### sing up
-Can’t sign up 
+remove sign up link
 
 
 ## hero baner
