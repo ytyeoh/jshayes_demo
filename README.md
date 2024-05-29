@@ -80,7 +80,9 @@ Need merge into 1 new page.
 
 ***
 # login  page
+https://www.jshayes.com.au/customer/account/login/
 Put a contact form under login for sign up
+Get a contact form https://www.jshayes.com.au/contact
 
 
 
