@@ -12,7 +12,7 @@ Remove top banner info and replace below info
 
 ## logo bar
 - Login > quick checkout (only when login)
-- Under logo put tagline 
+- Under logo put tagline  Sourcing made  seamless.
 ### Login & sign up 
     - Cart after login only show
 
@@ -58,7 +58,7 @@ Tissue paper can click and go to related products page, apply to all products he
 https://www.jshayes.com.au/janitorial/bin-liners.html
 - product sort order  need to arrange according to owner choice
 - Filter by brand
-- Remove shipping options 
+- Remove Shopping Options
 - After category put brand
 
 
