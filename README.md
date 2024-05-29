@@ -42,7 +42,9 @@ remove sign up link
 
 ## footer
 - Redesign footer
-
+refer tork & abco
+https://www.tork.com.au/
+https://abcopro.com.au/
 ***
 
 # brand 
