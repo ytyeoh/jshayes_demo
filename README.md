@@ -57,11 +57,26 @@ Tissue paper can click and go to related products page, apply to all products he
 # category page 
 https://www.jshayes.com.au/janitorial/bin-liners.html
 - product sort order  need to arrange according to owner choice
+- Filter by brand
+- Remove shipping options 
+- After category put brand
+
+
+***
+# product Page
+
+Correct - https://www.jshayes.com.au/regal-dishwashing-liquid-5l-classic-apple.html
+Wrong - https://www.jshayes.com.au/mr-muscle-odourless-oven-cleaner-300g-x-6.html
+- Put feature before price button
+- Other details or informations put at bottom tab
+
+
 
 ***
 
-# about us
-
+# merge page
+https://www.jshayes.com.au/our-mission + https://www.jshayes.com.au/js-hayes-sustainability
+Need merge into 1 new page.
 
 ***
 # login  page
